@@ -1,0 +1,53 @@
+{
+    "signup" : {
+        "name": "Roberto Medeiros",
+        "cpf": "00000033333",
+        "email": "roberto@mail.com",
+        "whatsapp": "8112345678",
+        "address":{
+            "postalcode":"55006040",
+            "street": "Rua Dom Severino Vieira de Melo",
+            "number": "108",
+            "details": "ap 02",
+            "district": "São Francisco",
+            "city_state":"Caruaru/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    
+    "cpf_inv" : {
+        "name": "Maria Aparecida",
+        "cpf": "x000000331AA",
+        "email": "maria@mail.com",
+        "whatsapp": "8112345678",
+        "address":{
+            "postalcode":"55006040",
+            "street": "Rua Dom Severino Vieira de Melo",
+            "number": "108",
+            "details": "ap 02",
+            "district": "São Francisco",
+            "city_state":"Caruaru/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    },
+        "email_inv" : {
+            "name": "Roberto Medeiros",
+            "cpf": "00000033333",
+            "email": "roberto.com.br",
+            "whatsapp": "8112345678",
+            "address":{
+                "postalcode":"55006040",
+                "street": "Rua Dom Severino Vieira de Melo",
+                "number": "108",
+                "details": "ap 02",
+                "district": "São Francisco",
+                "city_state":"Caruaru/PE"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        }
+         
+}
